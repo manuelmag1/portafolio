@@ -37,9 +37,13 @@ Primary use:    MultiPurpose One Page Template
         margin: auto;
         text-align: left;
         padding: 4%;
-	
-}  
+    }  
 
+    .section-title {
+
+        padding-top: 4%;
+        padding-bottom: 3%;
+    }
 @media only screen and (max-width: 1200px) {
 	
     .hs-wrap {
