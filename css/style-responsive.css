@@ -45,6 +45,11 @@ Primary use:    MultiPurpose One Page Template
         padding-top: 4%;
         padding-bottom: 3%;
     }
+
+    .footer-copy {
+
+        font-size: 35px;
+    }
 @media only screen and (max-width: 1200px) {
 	
     .hs-wrap {
