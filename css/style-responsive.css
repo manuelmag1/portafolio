@@ -37,6 +37,7 @@ Primary use:    MultiPurpose One Page Template
         margin: auto;
         text-align: left;
         padding: 4%;
+        letter-spacing: 1px;
     }  
 
     .section-title {
