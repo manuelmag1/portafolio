@@ -1162,3 +1162,4 @@ function init_google_map(){
         });
     })(jQuery);
 }
+
